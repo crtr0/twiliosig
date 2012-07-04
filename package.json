@@ -1,0 +1,17 @@
+{
+  "author": "Carter Rabasa <carter@rabasa.com> (http://carter.rabasa.com)",
+  "name": "twiliosig",
+  "description": "Node module for making sure HTTP requests are really coming from Twilio",
+  "version": "0.0.1",
+  "homepage": "https://github.com/crabasa/twiliosig",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/crabasa/twiliosig.git"
+  },
+  "engines": {
+    "node": "~0.6.10"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
