@@ -1,5 +1,6 @@
-twiliosig
-=========
+# twiliosig
+
+## WARNING: This module has been deprecated. Please use the ["twilio" NPM module](https://www.npmjs.com/package/twilio).
 
 Node module for making sure HTTP requests are really coming from Twilio
 
